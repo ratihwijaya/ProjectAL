@@ -1,4 +1,4 @@
-codeunit 50100 EventPO
+codeunit 50103 EventPO
 {
     // EventSubscriberInstance = Manual;
     [EventSubscriber(ObjectType::Codeunit, CodeUnit::"Purch.-Post", 'OnAfterPostPurchaseDoc', '', True, True)]
