@@ -1,4 +1,4 @@
-page 50102 PurchReqLine
+page 50147 PurchReqLine
 {
     PageType = ListPart;
     ApplicationArea = All;

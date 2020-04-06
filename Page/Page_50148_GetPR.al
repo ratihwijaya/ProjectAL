@@ -1,4 +1,4 @@
-page 50103 GetPR
+page 50148 GetPR
 {
     PageType = List;
     ApplicationArea = All;

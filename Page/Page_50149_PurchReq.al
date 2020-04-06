@@ -1,4 +1,4 @@
-page 50104 PurchReqList
+page 50149 PurchReqList
 {
     PageType = List;
     ApplicationArea = All;

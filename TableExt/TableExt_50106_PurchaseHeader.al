@@ -1,4 +1,4 @@
-tableextension 50100 PurchHeaderExt extends "Purchase Header"
+tableextension 50106 PurchHeaderExt extends "Purchase Header"
 {
     fields
     {
